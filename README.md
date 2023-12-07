@@ -1,7 +1,7 @@
 # 
 
 # Andstat - Presentación Web
-![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/logo.png)
+![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/logoblanco.png)
 ![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/banner-bg.jpg)) 
 
 
