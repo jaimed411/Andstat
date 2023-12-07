@@ -1,8 +1,6 @@
-# 
 
-# Andstat - Presentación Web
 ![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/logoblanco.png)
-![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/banner-bg.jpg)) 
+![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/banner-bgreadme.jpg)) 
 
 
 Aplicación que ofrece predicciones demográficas precisas para Andorra en 2024 y 2025. Descubre tendencias en población, edad y tasas de natalidad/mortalidad con datos actualizados.
