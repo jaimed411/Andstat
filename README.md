@@ -15,7 +15,7 @@ El proyecto se divide en:
 
 ## DEMO
 
-[https://pricespy.onrender.com/](https://andstat.onrender.com/)
+[[https://andstat.onrender.com](https://andstat.onrender.com/)/]
 
 
 ## Requisitos para acceso
