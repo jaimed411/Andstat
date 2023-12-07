@@ -3,7 +3,7 @@
 # Andstat - Presentación Web
 ![sobrenosotros](https://github.com/jaimed411/Andstat/blob/main/img/logo.png)
 
-La plataforma que combina  analítica de datos e inteligencia artificial para proporcionar información valiosa sobre el mercado de viviendas en España y asi ayudar a la toma decisiones para determinar el valor de una vivienda
+Aplicación que ofrece predicciones demográficas precisas para Andorra en 2024 y 2025. Descubre tendencias en población, edad y tasas de natalidad/mortalidad con datos actualizados.
 
 El proyecto se divide en:
 - Modelo Provincias ([link](https://github.com/jaimed411/PROYECTO-FINAL))
